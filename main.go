@@ -2,6 +2,7 @@ package main
 
 import "github.com/Echo7659/elog"
 
+// init
 func init(){
 
 }
